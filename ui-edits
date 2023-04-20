@@ -1,0 +1,50 @@
+/* Slidy Members */
+[class*="membersWrap-"] [class*="membersGroup-"] {
+    margin-right: auto;
+    width: 57px;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: clip;
+    direction: rtl;
+    word-spacing: 1000px;
+}
+.membersWrap-3NUR2t {
+  min-width: 0 !important; 
+}
+.members-3WRCEx {
+  color: #FF0000;
+  transition: 250ms ease all;
+  height: 10px;
+  width: 64px !important; 
+}
+:root {
+    --home-image: url('https://i.imgur.com/7SbtKvw.png');
+
+  --scrollbar-thin-thumb: hidden;
+  --scrollbar-auto-thumb: #151724;
+  --scrollbar-auto-scrollbar-color-thumb: #000000;
+  --scrollbar-thin-track: hidden;
+  --scrollbar-auto-track: hidden;
+  --scrollbar-auto-scrollbar-color-track: hidden;
+}
+
+/* div[data-list-item-id="guildsnav___home"] {
+	background: var(--home-image) top center/110% no-repeat;
+}
+#app-mount [data-list-item-id="guildsnav___home"]>div {
+	color: transparent;
+	background-color: transparent;
+} */
+.container-ZMc96U.themed-Hp1KC_ {
+    background: #151724;
+}
+.members-3WRCEx {
+    height: 300px !important;
+    border-bottom-left-radius: 10px;
+}
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+    background-color: #151724;
+}
+.children-3xh0VB:after {
+    background: #151724 !important;
+}
